@@ -41,7 +41,7 @@ streamlit run app.py
 ## 🌐 Deploying Online (Optional)
 You can deploy this project for free using:
 - [Streamlit Cloud](https://streamlit.io/cloud)
-- 
+
 Just upload this project (including `.pkl` files) to a GitHub repo and connect it.
 
 ---
@@ -77,3 +77,6 @@ pip install -r requirements.txt
 **Aman Mohammed**  
 
 ---
+## 📸 Screenshot
+![App Screenshot](app_housing_price_prediction.png)
+
