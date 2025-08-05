@@ -78,5 +78,5 @@ pip install -r requirements.txt
 
 ---
 ## 📸 Screenshot
-![App Screenshot](app_housing_price_prediction.png)
+![App Screenshot](app_housing_price_prediction.jpg)
 
